@@ -1,4 +1,4 @@
-#Simple Python App With Kivy
+# Simple Python App With Kivy
 
 A GUI made with the help of kivy framework.
 
@@ -6,11 +6,11 @@ A GUI made with the help of kivy framework.
 
 ![outputimage.png](appinread.png)
 
-##Objective:
+## Objective:
 
 To understand the working and process of the kivy framework and applying it in Python GUI.
 
-###Install Kivy with the help of -
+### Install Kivy with the help of -
 `pip install Kivy`
 
 
