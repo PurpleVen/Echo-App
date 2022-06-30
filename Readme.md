@@ -1,6 +1,6 @@
 # Simple Python App With Kivy
 
-A GUI made with the help of kivy framework.
+A GUI made using kivy framework.
 
 ![startimage.png](appinread1.png)
 
